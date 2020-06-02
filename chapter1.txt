@@ -1,1 +1,2 @@
-It was the best time, it was the worst time
+It was the best s# Uncomment the next line to define a global platform for your project
+ime, it was the worst time
